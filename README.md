@@ -1,16 +1,19 @@
-## Hi there 👋
+Olá, eu sou Leonardo
 
-<!--
-**Cerri16/Cerri16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Informatica para Internet
+💡 Interessado em programação, desenvolvimento de software e tecnologia
 
-Here are some ideas to get you started:
+🧠 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de TI apaixonado por tecnologia e desenvolvimento.
+Gosto de aprender coisas novas.
+
+Atualmente estou focado em:
+
+Desenvolvimento de software
+
+Programação
+
+Estruturas de dados
+
+Projetos práticos para melhorar minhas habilidades
