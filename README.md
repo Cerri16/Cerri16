@@ -1,6 +1,7 @@
 Olá, eu sou Leonardo
 
 🎓 Estudante de Informatica para Internet
+
 💡 Interessado em programação, desenvolvimento de software e tecnologia
 
 🧠 Sobre mim
